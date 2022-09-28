@@ -80,3 +80,84 @@ button{
   font-size: large;
   margin-top: 10px;
 }
+
+.second_section{
+    margin-bottom: 100px;
+}
+.second_section h2{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+
+
+.boxes{
+    display: flex;
+    justify-content: center;
+
+}
+
+.boxone{
+    padding: 100px;
+    border: 5px solid lightblue;
+    border-radius: 10%;
+    margin-right: 20px;
+}
+
+.boxtwo{
+    padding: 100px;
+    border: 5px solid lightblue;
+    border-radius: 10%;
+    margin-right: 20px;
+}
+
+.boxthree{
+    padding: 100px;
+    border: 5px solid lightblue;
+    border-radius: 10%;
+    margin-right: 20px;
+}
+
+.boxfour{
+    padding: 100px;
+    border: 5px solid lightblue;
+    border-radius: 10%;
+}
+
+.subtext{
+    display: flex;
+    
+}
+
+.subone{
+    width: 163px;
+    margin-left: 300px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+.subtwo{
+    width: 163px;
+    font-size: 18px;
+    margin-left: 69px;
+    margin-top: 10px;
+}
+
+.subthree{
+    width: 163px;
+    font-size: 18px;
+    margin-left: 65px;
+    margin-top: 10px;
+}
+
+.subfour{
+    width: 163px;
+    font-size: 18px;
+    margin-left: 65px;
+    margin-top: 10px;
+    
+}
