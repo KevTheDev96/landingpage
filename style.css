@@ -182,3 +182,39 @@ button{
     padding-left: 375px;
     font-weight: bold;
 }
+
+.calltoaction{
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    border-radius: 50px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    width: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 300px;
+    justify-content: space-evenly;
+}
+.calltoaction h3{
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.calltoaction sub{
+    color: white;
+    font-size: 15px;
+}
+
+.footer_section{
+    background-color: #1F2937;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.footer_section span{
+    padding-left: 600px;
+    color: white;
+}
