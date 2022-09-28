@@ -161,3 +161,24 @@ button{
     margin-top: 10px;
     
 }
+.quote_section{
+    background-color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+    background-color: #E5E7EB;
+    width: 800px;
+
+}
+
+.citearea{
+    padding-left: 375px;
+    font-weight: bold;
+}
